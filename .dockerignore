@@ -1,0 +1,6 @@
+/node_modules
+/.nuxt
+/.git
+/prod_scripts
+yarn.lock
+db.sqlite

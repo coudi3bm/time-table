@@ -1,0 +1,28 @@
+{
+  "name": "time-table",
+  "version": "1.0.0",
+  "private": true,
+  "installConfig": {
+    "pnp": true
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/js": "^5.9.55",
+    "@nuxtjs/axios": "^5.11.0",
+    "cookie-parser": "^1.4.5",
+    "cookie-universal-nuxt": "^2.1.4",
+    "express": "^4.17.1",
+    "nuxt": "^2.13.0",
+    "roboto-fontface": "^0.10.0",
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
